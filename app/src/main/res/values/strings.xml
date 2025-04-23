@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RijksMuseumCollection</string>
+    <string name="title_search_collection">Search the Rijks Museum Collection</string>
+    <string name="search_collection">Search something and tap search icon</string>
+    <string name="search">Search</string>
+    <string name="untitled">Untitled</string>
+    <string name="no_results_found">No results found.</string>
+    <string name="http_error">Something went wrong while fetching the results</string>
+    <string name="network_error">Couldn\'t reach server. Check your internet connection</string>
+    <string name="error">Something went wrong!</string>
+    <string name="search_results_found">Search results found:</string>
+</resources>
